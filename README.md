@@ -1,6 +1,6 @@
 <a href="https://github.com/iseplutpinur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iseplutpinur&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseplutpinur&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iseplutpinur&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseplutpinur&theme=radical&layout=compact" />
 </a>
 
 <!--
