@@ -1,5 +1,7 @@
-### Hi there 👋
-![github stats](https://github-readme-stats.vercel.app/api?username=iseplutpinur&show_icons=true&theme=radical)
+<a href="https://github.com/iseplutpinur">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iseplutpinur&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iseplutpinur&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **iseplutpinur/iseplutpinur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
