@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I’m pursuing a Bachelor of Informatics Engineering degree on Sangga Buana University Bandung<br>🌱 I’m currently learning Laravel and Java Spring Boot<br>⚡ Fun fact: nothing<br>
+💼 I’m pursuing a Bachelor of Informatics Engineering degree on Sangga Buana University Bandung<br>🌱 I’m currently learning Laravel and Java Quarkus<br>⚡ Fun fact: nothing<br>
 
 
 ## 🌐 Socials:
