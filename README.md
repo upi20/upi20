@@ -1,5 +1,7 @@
 # 💫 About Me:
 💼 I’m pursuing a Bachelor of Informatics Engineering degree on Sangga Buana University Bandung
+
+
 ![](https://komarev.com/ghpvc/?username=upi20&color=blue)
 
 ## 🌐 Socials:
