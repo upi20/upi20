@@ -1,9 +1,5 @@
 # 💫 About Me:
-💼 Hai! Saya Isep Lutpi Nur, tapi teman-teman biasa memanggil saya Upi. Saya seorang pengembang perangkat lunak yang telah aktif sejak 2021 di dunia teknologi. Berasal dari Cianjur, Indonesia, saya saat ini sedang menyelesaikan studi Teknik Informatika di Universitas Sangga Buana, Bandung.
-
-Selama perjalanan saya, saya telah membangun berbagai aplikasi web dan mobile yang membantu memecahkan masalah nyata, seperti sistem pendukung keputusan, aplikasi surat-menyurat, hingga platform e-learning. Salah satu pengalaman yang saya banggakan adalah berkontribusi pada pengembangan platform e-learning Cempor Dispora Kota Bandung, yang dirancang untuk mendukung pelatihan dan pengelolaan materi bagi pelajar dan pelatih.
-
-Saya selalu tertarik dengan teknologi baru, terutama dalam pengembangan web, aplikasi mobile, dan solusi open-source. Selain itu, saya aktif di berbagai organisasi, seperti DKM Ulil Albab dan Karmapack, di mana saya berperan dalam media informasi dan komunikasi. Saya juga menikmati berbagi pengetahuan melalui proyek dan kolaborasi di komunitas.
+💼 I am a Web Developer since 2021 with experience in building fullstack applications using Laravel for the backend and React.js for the frontend. Proficient in managing databases such as MySQL and PostgreSQL, I specialize in developing RESTful APIs, authentication systems, and system integrations. I focus on writing clean, efficient, and scalable code, while continuously improving my skills in modern web development best practices.
 
 
 [![](https://visitcount.itsvg.in/api?id=upi20&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
